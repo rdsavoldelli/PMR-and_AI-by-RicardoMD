@@ -1,0 +1,41 @@
+# Reflections on "Deep Researcher with Test-Time Diffusion (TTD-DR)" and Its Connection to Physiatry & Rehabilitation
+
+## 📄 Article Summary
+The Google paper introduces the **Test-Time Diffusion Deep Researcher (TTD-DR)**, a framework that models research report generation as an iterative process.  
+Key ideas include:
+- Starting with an **initial draft** (a noisy hypothesis).  
+- Refining this draft through cycles of **denoising** informed by external retrieval (search and evidence).  
+- Applying **self-evolution** at each component (plan, questions, answers, report) to improve quality and diversity.  
+- Preserving **global coherence** across the entire workflow, avoiding fragmented or section-by-section reasoning.  
+
+The result is a research agent that integrates information more accurately, coherently, and usefully for complex problems.
+
+---
+
+## 🧠 Parallels with Physiatry and Rehabilitation
+As a physiatrist, I see strong analogies between TTD-DR and clinical reasoning in rehabilitation:
+
+- **Initial hypothesis (clinical draft):** Just as TTD-DR begins with a draft, rehabilitation starts with an initial diagnostic or therapeutic hypothesis.  
+- **Iterative refinement (denoising):** Each new piece of information — physical exam, imaging, gait analysis, patient feedback — acts as a denoising step, refining the treatment plan.  
+- **Evidence retrieval:** Clinicians consult guidelines, literature, and wearable data to validate or adjust decisions, mirroring retrieval-augmented refinement.  
+- **Multidisciplinary discussion (self-evolution):** Different specialists (physiatrist, PT, OT, biomedical engineer) contribute perspectives that converge into a stronger plan, similar to TTD-DR’s self-evolution mechanism.  
+- **Longitudinal coherence:** Rehabilitation requires continuity and context across sessions; TTD-DR ensures coherence across the entire research trajectory.  
+
+---
+
+## 🚀 Potential Applications of TTD-DR in Rehabilitation
+- **Fall risk prediction** using gait and environmental sensor data, refined iteratively.  
+- **Chronic pain stratification** with “living evidence” pipelines that continuously update recommendations.  
+- **Continuous functional reports** for neurorehabilitation patients, updated through denoising cycles.  
+- **FHIR/HL7 interoperability** to integrate clinical data into intelligent, evolving reports.  
+- **NLP on medical records** to detect functional patterns and suggest therapy adjustments.  
+
+---
+
+## 🎯 Conclusion
+TTD-DR is not just a technical innovation in AI — it mirrors the **iterative clinical reasoning** process that physiatrists already practice.  
+My vision is to leverage frameworks like TTD-DR to build **AI that thinks like a researcher but validates like a clinician**, enhancing precision, personalization, and impact in rehabilitation medicine.
+
+---
+
+Link do artigo: https://arxiv.org/abs/2507.16075
