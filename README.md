@@ -10,6 +10,12 @@ To bridge clinical expertise with emerging technologies, and to show how physici
 
 ---
 
+## 🧠 Highlight: Sarcopenia, AI and Rehabilitation
+
+For a clinical–technological overview on how AI, digital biomarkers and innovation are being used to prevent and treat sarcopenia in rehabilitation, see:
+
+- [`digital-biomarkers-in-rehabilitation/sarcopenia-AI-landscape.md`](digital-biomarkers-in-rehabilitation/sarcopenia-AI-landscape.md)
+
 ## 🗂️ Repository Structure
 
 - [`curated-articles/`](./curated-articles): summaries and reflections on key scientific papers and technical resources.
