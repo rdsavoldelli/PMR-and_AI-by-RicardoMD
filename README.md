@@ -1,6 +1,6 @@
 # PMR and AI by RicardoMD
 
-Welcome to my public repository on **Artificial Intelligence in Physical Medicine and Rehabilitation (PMR)**. I'm **Ricardo [Last Name]**, a physiatrist and researcher in digital health. Here I share curated content, tutorials, and case studies on how AI is transforming clinical care — especially in neurorehabilitation, conversational agents, and patient education.
+Welcome to my public repository on **Artificial Intelligence in Physical Medicine and Rehabilitation (PMR)**. I'm **Ricardo Diaz Savoldelli**, a physiatrist and researcher in digital health. Here I share curated content, tutorials, and case studies on how AI is transforming clinical care — especially in neurorehabilitation, conversational agents, and patient education.
 
 ---
 
